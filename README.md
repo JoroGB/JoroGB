@@ -1,3 +1,5 @@
+# JoroGB
+###### `BackEnd Developer`
 <p align="center">
 
   <img src="Images/krul.gif" alt=""/>
@@ -5,8 +7,6 @@
 
 
 
-# JoroGB
-###### `BackEnd Developer`
 
 
 Me presento soy Jordy Gutierrez.
