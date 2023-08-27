@@ -1,4 +1,15 @@
-### Hi there 👋
+![krul.gif](Images%2Fkrul.gif)
+# JoroGB
+###### `BackEnd Developer`
+
+
+Me presento soy Jordy Gutierrez.
+
+18 años
+
+Estudiante autodidacta
+
+
 
 <!--
 **JoroGB/JoroGB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
