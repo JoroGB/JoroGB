@@ -1,4 +1,10 @@
-![krul.gif](Images%2Fkrul.gif)
+<p align="center">
+
+  <img src="Images/krul.gif" alt=""/>
+</p>
+
+
+
 # JoroGB
 ###### `BackEnd Developer`
 
