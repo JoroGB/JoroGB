@@ -19,7 +19,7 @@
 struct Joro {
     location:  "Costa Rica ",
     role:      "Student & Backend Developer",
-    learning:  ["Rust 🦀", "Systems Programming", Math],
+    learning:  ["Rust 🦀", "Systems Programming", "Math"],
     mindset:   "I always finish what I start.",
 }
 ```
