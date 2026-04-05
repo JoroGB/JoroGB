@@ -1,62 +1,85 @@
-# JoroGB    ![pythonicon.png](Images%2Fpythonicon.png)
-###### `BackEnd Developer`
 <div align="center">
-  
-<p align="center">
-  <img src="Images/krul.gif" alt=""/>
-</p>
+
+```
+╔══════════════════════════════════════════════════════╗
+║                   > JORO_GB.init()                   ║
+║              Backend Developer & Student             ║
+╚══════════════════════════════════════════════════════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Optimistic+%26+focused+%E2%80%94+starts+something%2C+doesn't+stop.;Currently+learning+Rust+%F0%9F%A6%80;Backend+developer+from+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7)](https://git.io/typing-svg)
+
 </div>
 
-###
+---
+
+### `$ whoami`
+
+```rust
+struct Joro {
+    location:  "Costa Rica 🇨🇷",
+    role:      "Student & Backend Developer",
+    learning:  ["Rust 🦀", "Systems Programming"],
+    mindset:   "Starts something — doesn't stop until it's done.",
+}
+```
+
+---
+
+### `$ ls ./stack`
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jordygutierrez/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/JordyCommit" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+
 </div>
 
-###
+---
 
+### `$ cat ./stats`
 
-###
+<div align="center">
 
-<h3 align="left">👩‍💻  About Me</h3>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoroGB&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoroGB&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning  rust<br>- ⚡ In my free time I play Minecraft</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
 
-###
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JoroGB&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+</div>
+
+---
+
+### `$ cat ./contact`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordygutierrez/)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/JordyCommit)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+> "El que empieza algo y no para hasta terminarlo." 
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=JoroGB&color=58a6ff&style=flat-square&label=profile+views)
+
+</div>
