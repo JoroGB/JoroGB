@@ -7,7 +7,7 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Optimistic+%26+focused;Currently+learning+Rust+%F0%9F%A6%80;Backend+developer+from+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Optimistic+%26+focused;Currently+learning+Rust+%F0%9F%A6%80)](https://git.io/typing-svg)
 
 </div>
 
