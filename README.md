@@ -17,10 +17,10 @@
 
 ```rust
 struct Joro {
-    location:  "Costa Rica 🇨🇷",
+    location:  "Costa Rica ",
     role:      "Student & Backend Developer",
-    learning:  ["Rust 🦀", "Systems Programming"],
-    mindset:   "Starts something — doesn't stop until it's done.",
+    learning:  ["Rust 🦀", "Systems Programming", Math],
+    mindset:   "I always finish what I start.",
 }
 ```
 
@@ -77,7 +77,7 @@ struct Joro {
 <div align="center">
 
 ```
-> "El que empieza algo y no para hasta terminarlo." 
+> "Creí que debia saberlo todo hasta que me di cuenta de que solo sabiendo no iba a llegar a nada." 
 ```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JoroGB&color=58a6ff&style=flat-square&label=profile+views)
